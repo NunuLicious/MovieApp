@@ -1,1 +1,1 @@
-var a = 1; b = "test";
+var a = 1, b = "test", d = 4;
